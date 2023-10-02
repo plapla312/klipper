@@ -5,5 +5,5 @@ https://github.com/ihrapsa/KlipperWrt
 otra info sacada de:
 https://www.reddit.com/r/klippers/comments/r4c9iw/klipperwrt_on_openwrt_router_linksys_ea8500/
 
-printer.cfg ribado de:
+printer.cfg robado de:
 https://github.com/bazarovdev/klipper/blob/spi9bit/
